@@ -1,0 +1,7 @@
+D:\c#\Thang5\TL1\TL1\bin\Debug\TL1.exe.config
+D:\c#\Thang5\TL1\TL1\bin\Debug\TL1.exe
+D:\c#\Thang5\TL1\TL1\bin\Debug\TL1.pdb
+D:\c#\Thang5\TL1\TL1\obj\Debug\TL1.csproj.AssemblyReference.cache
+D:\c#\Thang5\TL1\TL1\obj\Debug\TL1.csproj.CoreCompileInputs.cache
+D:\c#\Thang5\TL1\TL1\obj\Debug\TL1.exe
+D:\c#\Thang5\TL1\TL1\obj\Debug\TL1.pdb
